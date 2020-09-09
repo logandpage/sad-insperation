@@ -1,0 +1,25 @@
+*{
+    background-color: lightblue; 
+}
+
+.hero {
+    text-align: center;
+    color: grey;
+}
+
+h2{
+    color: grey;
+}
+
+.qoutes-text{
+    color: red;
+}
+
+.btn{
+    background-color: red;
+    color: grey;
+}
+
+.pure-g{
+    padding: 20px 40px;
+}
